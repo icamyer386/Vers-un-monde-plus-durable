@@ -1,0 +1,1522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260512194459Q5BAQK</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260512194459X7SUPI</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Vers un monde plus durable</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>SdA (Francés)</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Inma Camúñez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778607605399</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp2qrkug-w93zflyjb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introducción</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2qrkug-w93zflyjb</odePageId>
+      <odeBlockId>block-1778425075253-yosfsa3k9</odeBlockId>
+      <blockName>Bienvenue !</blockName>
+      <iconName>discuss</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2qrkug-w93zflyjb</odePageId>
+          <odeBlockId>block-1778425075253-yosfsa3k9</odeBlockId>
+          <odeIdeviceId>idevice-1778425075251-rt0uynz0b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Bonjour à tous et bienvenue dans cette activité !<br />Dans cette tâche, vous allez apprendre, découvrir et pratiquer le français de manière amusante et interactive. Lisez attentivement les consignes, participez aux activités et n’ayez pas peur de faire des erreurs : apprendre une langue, c’est aussi essayer !</p>
+<p style="text-align: justify;">Préparez votre matériel, utilisez votre imagination et… c’est parti !<br />Bon travail et amusez-vous bien !</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/harrison-mitchell-0HLKO07Tnho-unsplash.jpg" width="250" height="445" alt="" style="display: block; margin-left: auto; margin-right: auto;" /><span style="font-size: 10pt;"><em>Foto de Harrison Mitchell en Unsplash (Licencia Unsplash).</em></span><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778425075251-rt0uynz0b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Bonjour à tous et bienvenue dans cette activité !<br />Dans cette tâche, vous allez apprendre, découvrir et pratiquer le français de manière amusante et interactive. Lisez attentivement les consignes, participez aux activités et n’ayez pas peur de faire des erreurs : apprendre une langue, c’est aussi essayer !</p>\n<p style=\"text-align: justify;\">Préparez votre matériel, utilisez votre imagination et… c’est parti !<br />Bon travail et amusez-vous bien !</p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/harrison-mitchell-0HLKO07Tnho-unsplash.jpg\" width=\"250\" height=\"445\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /><span style=\"font-size: 10pt;\"><em>Foto de Harrison Mitchell en Unsplash (Licencia Unsplash).</em></span><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp2qrkuj-8yaj291bu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2qrkuj-8yaj291bu</odePageId>
+      <odeBlockId>block-1778436154125-cubkvhmhe</odeBlockId>
+      <blockName>Infografía del proyecto</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2qrkuj-8yaj291bu</odePageId>
+          <odeBlockId>block-1778436154125-cubkvhmhe</odeBlockId>
+          <odeIdeviceId>idevice-1778436154124-xbirx571x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHGoksb7LM/kyYnObvZik199dFKmFtsEg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe></div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778436154124-xbirx571x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 141.4286%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHGoksb7LM/kyYnObvZik199dFKmFtsEg/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe></div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp2qrkuk-rusfq1njd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Seguridad digital</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2qrkuk-rusfq1njd</odePageId>
+      <odeBlockId>block-1778436428067-tqx0mxqzt</odeBlockId>
+      <blockName>Recomendaciones en tu entorno digital</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2qrkuk-rusfq1njd</odePageId>
+          <odeBlockId>block-1778436428067-tqx0mxqzt</odeBlockId>
+          <odeIdeviceId>idevice-1778436428066-xdhtsq64o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 212.1212%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHGMBTIkao/VGz5MrlcD0VUBnGoUs-biQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe></div>
+<p style="text-align: center;"><em><span style="font-size: 10pt;">Imagen de fondo generada con IA.</span></em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778436428066-xdhtsq64o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 212.1212%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHGMBTIkao/VGz5MrlcD0VUBnGoUs-biQ/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe></div>\n<p style=\"text-align: center;\"><em><span style=\"font-size: 10pt;\">Imagen de fondo generada con IA.</span></em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp2qrkul-lu5emdhr9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2qrkul-lu5emdhr9</odePageId>
+      <odeBlockId>block-1778437097369-0h27c61sa</odeBlockId>
+      <blockName>Descripción del producto final</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2qrkul-lu5emdhr9</odePageId>
+          <odeBlockId>block-1778437097369-0h27c61sa</odeBlockId>
+          <odeIdeviceId>idevice-1778437097368-xpd0p1u1g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">En este proyecto vais a trabajar por parejas para <strong>investigar diferentes temas relacionados con la sostenibilidad y el medio ambiente</strong>. A lo largo de la tarea, buscaréis información, seleccionaréis las ideas más importantes y reflexionaréis sobre posibles propuestas de mejora para cuidar el planeta.</p>
+<p style="text-align: justify;">Con toda la información recopilada, elaboraréis un <strong>folleto tríptico</strong> utilizando la herramienta Canva, donde presentaréis de forma clara y visual vuestras conclusiones. Finalmente, realizaréis una <strong>exposición oral en francés</strong> para compartir con el resto de la clase el tema trabajado.</p>
+<p style="text-align: justify;">El uso de Canva os permitirá desarrollar vuestra creatividad y diseñar el proyecto con libertad, adaptando tanto el formato como el contenido al tema elegido. Además, esta herramienta facilita el trabajo colaborativo en tiempo real, incluso desde distintos dispositivos, permite guardar el trabajo online para continuarlo más adelante y cuenta con un manejo sencillo e intuitivo adecuado para vuestro nivel de competencia digital.</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/david-emrich-uH03NpIt-JQ-unsplash.jpg" width="500" height="334" alt="" style="display: block; margin-left: auto; margin-right: auto;" /><span style="font-size: 10pt;"><em>Foto de David Emrich en Unsplash (Licencia Unsplash).</em></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778437097368-xpd0p1u1g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">En este proyecto vais a trabajar por parejas para <strong>investigar diferentes temas relacionados con la sostenibilidad y el medio ambiente</strong>. A lo largo de la tarea, buscaréis información, seleccionaréis las ideas más importantes y reflexionaréis sobre posibles propuestas de mejora para cuidar el planeta.</p>\n<p style=\"text-align: justify;\">Con toda la información recopilada, elaboraréis un <strong>folleto tríptico</strong> utilizando la herramienta Canva, donde presentaréis de forma clara y visual vuestras conclusiones. Finalmente, realizaréis una <strong>exposición oral en francés</strong> para compartir con el resto de la clase el tema trabajado.</p>\n<p style=\"text-align: justify;\">El uso de Canva os permitirá desarrollar vuestra creatividad y diseñar el proyecto con libertad, adaptando tanto el formato como el contenido al tema elegido. Además, esta herramienta facilita el trabajo colaborativo en tiempo real, incluso desde distintos dispositivos, permite guardar el trabajo online para continuarlo más adelante y cuenta con un manejo sencillo e intuitivo adecuado para vuestro nivel de competencia digital.</p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/david-emrich-uH03NpIt-JQ-unsplash.jpg\" width=\"500\" height=\"334\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /><span style=\"font-size: 10pt;\"><em>Foto de David Emrich en Unsplash (Licencia Unsplash).</em></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp2qrkul-bbjufbj8d</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2qrkul-bbjufbj8d</odePageId>
+      <odeBlockId>block-1778437414314-q4lg5jrzf</odeBlockId>
+      <blockName>Curación de contenidos</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2qrkul-bbjufbj8d</odePageId>
+          <odeBlockId>block-1778437414314-q4lg5jrzf</odeBlockId>
+          <odeIdeviceId>idevice-1778437414312-ro80osvm4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La curación de contenidos consiste en el proceso de <strong>buscar, seleccionar, organizar y compartir</strong> información relevante y fiable sobre un tema concreto. En el ámbito educativo, esta práctica resulta especialmente útil tanto para el profesorado como para el alumnado, ya que permite filtrar la gran cantidad de información disponible en Internet y convertirla en recursos útiles para el aprendizaje.</p>
+<p style="text-align: justify;">Existen diferentes herramientas de curación de contenidos que facilitan esta tarea, ya sea mediante la recopilación de enlaces, la creación de tableros visuales, el almacenamiento de recursos en la nube o la organización de materiales digitales de forma colaborativa. Además, estas herramientas favorecen el desarrollo de la competencia digital, el pensamiento crítico y la capacidad de análisis de la información.</p>
+<p style="text-align: justify;">A continuación, se diferenciará el uso de la curación de contenidos desde dos perspectivas: por un lado, como herramienta de aprendizaje para el alumnado y, por otro, como recurso de apoyo y organización para la labor docente.</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/austin-distel-tLZhFRLj6nY-unsplash.jpg" width="600" height="400" alt="" /></p>
+<p style="text-align: center;"><span style="font-size: 10pt;"><em>Foto de Austin Distel en Unsplash (Licencia Unsplash).</em></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778437414312-ro80osvm4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La curación de contenidos consiste en el proceso de <strong>buscar, seleccionar, organizar y compartir</strong> información relevante y fiable sobre un tema concreto. En el ámbito educativo, esta práctica resulta especialmente útil tanto para el profesorado como para el alumnado, ya que permite filtrar la gran cantidad de información disponible en Internet y convertirla en recursos útiles para el aprendizaje.</p>\n<p style=\"text-align: justify;\">Existen diferentes herramientas de curación de contenidos que facilitan esta tarea, ya sea mediante la recopilación de enlaces, la creación de tableros visuales, el almacenamiento de recursos en la nube o la organización de materiales digitales de forma colaborativa. Además, estas herramientas favorecen el desarrollo de la competencia digital, el pensamiento crítico y la capacidad de análisis de la información.</p>\n<p style=\"text-align: justify;\">A continuación, se diferenciará el uso de la curación de contenidos desde dos perspectivas: por un lado, como herramienta de aprendizaje para el alumnado y, por otro, como recurso de apoyo y organización para la labor docente.</p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/austin-distel-tLZhFRLj6nY-unsplash.jpg\" width=\"600\" height=\"400\" alt=\"\" /></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 10pt;\"><em>Foto de Austin Distel en Unsplash (Licencia Unsplash).</em></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp2qrkup-0o22monhf</odePageId>
+  <odeParentPageId>page-mp2qrkul-bbjufbj8d</odeParentPageId>
+  <pageName>Para el alumnado</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2qrkup-0o22monhf</odePageId>
+      <odeBlockId>block-1778437856564-240odpwoj</odeBlockId>
+      <blockName>Curación de contenidos para el alumnado</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2qrkup-0o22monhf</odePageId>
+          <odeBlockId>block-1778437856564-240odpwoj</odeBlockId>
+          <odeIdeviceId>idevice-1778437856561-lsq2b4803</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://digipad.app/p/1683661/3e6921dfdaca" size="3" width="600" height="500" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp2qrkur-okj8jp066</odePageId>
+  <odeParentPageId>page-mp2qrkul-bbjufbj8d</odeParentPageId>
+  <pageName>Para el docente</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Para el docente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Para el docente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2qrkur-okj8jp066</odePageId>
+      <odeBlockId>block-1778438005873-we873hebk</odeBlockId>
+      <blockName>Recursos de apoyo para el docente</blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2qrkur-okj8jp066</odePageId>
+          <odeBlockId>block-1778438005873-we873hebk</odeBlockId>
+          <odeIdeviceId>idevice-1778438005872-xi4756042</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://ladigitale.dev/digibunch/#/b/69eb55d81c34c" size="3" width="600" height="500" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp2qrkus-qz8sdpre3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Planning (línea temporal)</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Planning (línea temporal)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Planning (línea temporal)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2qrkus-qz8sdpre3</odePageId>
+      <odeBlockId>block-1778598762085-etvmc2yyf</odeBlockId>
+      <blockName>Planning por sesiones</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2qrkus-qz8sdpre3</odePageId>
+          <odeBlockId>block-1778598762085-etvmc2yyf</odeBlockId>
+          <odeIdeviceId>idevice-1778598762084-o7q3li0rw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación, podéis consultar la planificación del proyecto organizada por sesiones. En cada una de ellas se indican las actividades que realizaréis, así como el aula donde tendrá lugar y las herramientas que utilizaréis durante el proceso. Esta organización os ayudará a seguir el trabajo de forma progresiva y a gestionar mejor el tiempo para completar correctamente tanto el folleto como la exposición oral final.<br /> <br /> <iframe width="1000" height="500" src="https://view.genially.com/69f8a14fa21bef900d736972"></iframe></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778598762084-o7q3li0rw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación, podéis consultar la planificación del proyecto organizada por sesiones. En cada una de ellas se indican las actividades que realizaréis, así como el aula donde tendrá lugar y las herramientas que utilizaréis durante el proceso. Esta organización os ayudará a seguir el trabajo de forma progresiva y a gestionar mejor el tiempo para completar correctamente tanto el folleto como la exposición oral final.<br /> <br /> <iframe width=\"1000\" height=\"500\" src=\"https://view.genially.com/69f8a14fa21bef900d736972\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp2qrkus-y43xdytow</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2qrkus-y43xdytow</odePageId>
+      <odeBlockId>block-1778438278824-qrd7f1n6g</odeBlockId>
+      <blockName>Evaluación del proyecto</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2qrkus-y43xdytow</odePageId>
+          <odeBlockId>block-1778438278824-qrd7f1n6g</odeBlockId>
+          <odeIdeviceId>idevice-1778438278822-9srdpb4zl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La evaluación constituye un elemento esencial dentro del proceso de enseñanza-aprendizaje, ya que permite comprobar el grado de adquisición de los objetivos, competencias y saberes básicos establecidos para cada materia. En el enfoque competencial actual, la evaluación no se centra únicamente en la adquisición de contenidos, sino también en vuestra capacidad como alumnos para aplicar conocimientos, destrezas y actitudes en diferentes situaciones de aprendizaje.</p>
+<p style="text-align: justify;">En este sentido, las competencias clave representan los desempeños imprescindibles que debéis desarrollar a lo largo de vuestra formación, mientras que las competencias específicas concretan dichos desempeños dentro de cada materia. Para valorar su adquisición, se emplean los criterios de evaluación, que actúan como referentes para determinar el nivel de desempeño esperado en el alumnado.</p>
+<p style="text-align: justify;">Además, según su finalidad y función, pueden distinguirse dos tipos principales de evaluación: la evaluación formativa, orientada al seguimiento y mejora continua del proceso de aprendizaje, y la evaluación sumativa, centrada en valorar el grado de consecución de los aprendizajes al finalizar una actividad, proyecto o situación de aprendizaje.</p>
+<p>A continuación, se desarrollarán los criterios e instrumentos de evaluación seleccionados para este proyecto.<br /> <img src="{{context_path}}/content/resources/towfiqu-barbhuiya-0ZUoBtLw3y4-unsplash.jpg" width="500" height="334" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: center;"><em>Foto de Towfiqu barbhuiya en Unsplash (Licencia Unsplash).</em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778438278822-9srdpb4zl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La evaluación constituye un elemento esencial dentro del proceso de enseñanza-aprendizaje, ya que permite comprobar el grado de adquisición de los objetivos, competencias y saberes básicos establecidos para cada materia. En el enfoque competencial actual, la evaluación no se centra únicamente en la adquisición de contenidos, sino también en vuestra capacidad como alumnos para aplicar conocimientos, destrezas y actitudes en diferentes situaciones de aprendizaje.</p>\n<p style=\"text-align: justify;\">En este sentido, las competencias clave representan los desempeños imprescindibles que debéis desarrollar a lo largo de vuestra formación, mientras que las competencias específicas concretan dichos desempeños dentro de cada materia. Para valorar su adquisición, se emplean los criterios de evaluación, que actúan como referentes para determinar el nivel de desempeño esperado en el alumnado.</p>\n<p style=\"text-align: justify;\">Además, según su finalidad y función, pueden distinguirse dos tipos principales de evaluación: la evaluación formativa, orientada al seguimiento y mejora continua del proceso de aprendizaje, y la evaluación sumativa, centrada en valorar el grado de consecución de los aprendizajes al finalizar una actividad, proyecto o situación de aprendizaje.</p>\n<p>A continuación, se desarrollarán los criterios e instrumentos de evaluación seleccionados para este proyecto.<br /> <img src=\"{{context_path}}/content/resources/towfiqu-barbhuiya-0ZUoBtLw3y4-unsplash.jpg\" width=\"500\" height=\"334\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: center;\"><em>Foto de Towfiqu barbhuiya en Unsplash (Licencia Unsplash).</em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp2qrkut-1ewno3b5u</odePageId>
+  <odeParentPageId>page-mp2qrkus-y43xdytow</odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2qrkut-1ewno3b5u</odePageId>
+      <odeBlockId>block-1778439336836-q9b1jdv0o</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2qrkut-1ewno3b5u</odePageId>
+          <odeBlockId>block-1778439336836-q9b1jdv0o</odeBlockId>
+          <odeIdeviceId>idevice-1778439336835-snymmh5vs</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://docs.google.com/document/d/1DB6R-m1toT7v0MumOwY_mQRXpd-BPKVGb4PsZI855wQ/edit?usp=sharing" size="3" width="600" height="500" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp2qrkuu-huxght0zq</odePageId>
+  <odeParentPageId>page-mp2qrkus-y43xdytow</odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2qrkuu-huxght0zq</odePageId>
+      <odeBlockId>block-1778438912392-vxjz04pd3</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2qrkuu-huxght0zq</odePageId>
+          <odeBlockId>block-1778438912392-vxjz04pd3</odeBlockId>
+          <odeIdeviceId>idevice-1778438912390-zb4oaasm9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Para evaluar este proyecto se han elegido <strong>dos instrumentos de evaluación</strong> diferentes, aplicados en distintos momentos y con finalidades complementarias.<br /></p>
+<p>Por un lado, se ha elegido el <strong>cuestionario </strong>para evaluar el grado de adquisición de contenidos a través de la investigación de un tema. Por ello, y a través de la herramienta Google Forms, se realizarán dos cuestionarios diferentes para aplicar en dos momentos diferentes:<br /></p>
+<ul>
+<li>Durante el desarrollo del proyecto: con una finalidad formativa, nos ayudará a detectar dificultades relacionadas con la comprensión del tema, el uso del francés y la expresión oral, pudiendo aplicar medidas específicas de apoyo durante el proceso.</li>
+<li>Al finalizar el proyecto: nos ayudará a comprobar el aprendizaje adquirido y valorar la evolución del alumnado mediante un cuestionario de autoevaluación.</li>
+</ul>
+<p>A través de la recogida de datos del primer cuestionario, podremos adaptar la enseñanza durante el proyecto y ofrecer apoyos específicos cuando sea necesario para que el alumnado pueda llevarlo a cabo de forma satisfactoria. Asimismo, el segundo cuestionario tendrá un doble objetivo: por un lado, ayudar al alumnado a reflexionar sobre su propio proceso de aprendizaje y, por otro, después del análisis de datos, permitirnos como docentes comprobar la autovaloración del alumnado, detectar posibles dificultades y mejorar futuras actividades o proyectos.<br /></p>
+<p>Por otro lado, se ha elegido una <strong>rúbrica de evaluación</strong> para valorar los resultados del producto final, tanto el tríptico como la exposición oral. Se realizará con la herramienta Word y se aplicará al finalizar las exposiciones.<br /></p>
+<p>La rúbrica permitirá evaluar de forma objetiva aspectos como la organización de la información, la calidad del contenido investigado, el uso del francés y la expresión oral.<br /></p>
+<p>Además de ello, ayudará a detectar dificultades comunes del alumnado. Es por ello que, una vez recogidos y analizados los datos, estos nos permitirán detectar dificultades comunes y adaptar la enseñanza con medidas específicas según las necesidades del alumnado. Por ejemplo, si el cuestionario muestra que el 60% del alumnado tiene dificultades en la expresión oral en lengua francesa, se realizará una mini sesión de refuerzo con apoyo lingüístico adicional, como listas de vocabulario y pequeñas prácticas orales guiadas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778438912390-zb4oaasm9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Para evaluar este proyecto se han elegido <strong>dos instrumentos de evaluación</strong> diferentes, aplicados en distintos momentos y con finalidades complementarias.<br /></p>\n<p>Por un lado, se ha elegido el <strong>cuestionario </strong>para evaluar el grado de adquisición de contenidos a través de la investigación de un tema. Por ello, y a través de la herramienta Google Forms, se realizarán dos cuestionarios diferentes para aplicar en dos momentos diferentes:<br /></p>\n<ul>\n<li>Durante el desarrollo del proyecto: con una finalidad formativa, nos ayudará a detectar dificultades relacionadas con la comprensión del tema, el uso del francés y la expresión oral, pudiendo aplicar medidas específicas de apoyo durante el proceso.</li>\n<li>Al finalizar el proyecto: nos ayudará a comprobar el aprendizaje adquirido y valorar la evolución del alumnado mediante un cuestionario de autoevaluación.</li>\n</ul>\n<p>A través de la recogida de datos del primer cuestionario, podremos adaptar la enseñanza durante el proyecto y ofrecer apoyos específicos cuando sea necesario para que el alumnado pueda llevarlo a cabo de forma satisfactoria. Asimismo, el segundo cuestionario tendrá un doble objetivo: por un lado, ayudar al alumnado a reflexionar sobre su propio proceso de aprendizaje y, por otro, después del análisis de datos, permitirnos como docentes comprobar la autovaloración del alumnado, detectar posibles dificultades y mejorar futuras actividades o proyectos.<br /></p>\n<p>Por otro lado, se ha elegido una <strong>rúbrica de evaluación</strong> para valorar los resultados del producto final, tanto el tríptico como la exposición oral. Se realizará con la herramienta Word y se aplicará al finalizar las exposiciones.<br /></p>\n<p>La rúbrica permitirá evaluar de forma objetiva aspectos como la organización de la información, la calidad del contenido investigado, el uso del francés y la expresión oral.<br /></p>\n<p>Además de ello, ayudará a detectar dificultades comunes del alumnado. Es por ello que, una vez recogidos y analizados los datos, estos nos permitirán detectar dificultades comunes y adaptar la enseñanza con medidas específicas según las necesidades del alumnado. Por ejemplo, si el cuestionario muestra que el 60% del alumnado tiene dificultades en la expresión oral en lengua francesa, se realizará una mini sesión de refuerzo con apoyo lingüístico adicional, como listas de vocabulario y pequeñas prácticas orales guiadas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp2qrkuu-huxght0zq</odePageId>
+      <odeBlockId>block-1778439054165-d8zoc0gaf</odeBlockId>
+      <blockName>Cuestionario (durante el proyecto)</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2qrkuu-huxght0zq</odePageId>
+          <odeBlockId>block-1778439054165-d8zoc0gaf</odeBlockId>
+          <odeIdeviceId>idevice-1778439054164-umeztwl0n</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://forms.gle/Xe5jUvjgb5aS4VaN7" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp2qrkuu-huxght0zq</odePageId>
+      <odeBlockId>block-1778439129113-smndr0t6e</odeBlockId>
+      <blockName>Cuestionario (después del proyecto)</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2qrkuu-huxght0zq</odePageId>
+          <odeBlockId>block-1778439129113-smndr0t6e</odeBlockId>
+          <odeIdeviceId>idevice-1778439129112-9kfn2fs49</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://forms.gle/eeJCTYy9N9Rvdmh47" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp2qrkuu-huxght0zq</odePageId>
+      <odeBlockId>block-1778439220576-1emh806c7</odeBlockId>
+      <blockName>Rúbrica de evaluación</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2qrkuu-huxght0zq</odePageId>
+          <odeBlockId>block-1778439220576-1emh806c7</odeBlockId>
+          <odeIdeviceId>idevice-1778439220575-dxn54bx3t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="1000" height="500" src="{{context_path}}/content/resources/Rúbrica de evaluación.pdf"></iframe></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778439220575-dxn54bx3t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"1000\" height=\"500\" src=\"{{context_path}}/content/resources/Rúbrica de evaluación.pdf\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp2qrkuv-gzca0f1ng</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2qrkuv-gzca0f1ng</odePageId>
+      <odeBlockId>block-1778602990162-d203heqjc</odeBlockId>
+      <blockName>Guía didáctica para el docente</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2qrkuv-gzca0f1ng</odePageId>
+          <odeBlockId>block-1778602990162-d203heqjc</odeBlockId>
+          <odeIdeviceId>idevice-1778602990161-ai4bon82c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ol>
+<li style="list-style-type: none;">
+<ol>
+<li style="text-align: justify;"><strong>Descripción del proyecto.</strong><br />Este proyecto está dirigido al alumnado de 1.º de Bachillerato de Francés como Segunda Lengua Extranjera. El alumnado, organizado por parejas, investigará temas relacionados con la sostenibilidad y el medio ambiente para elaborar un folleto tríptico en Canva y realizar posteriormente una exposición oral en francés. Ejemplo de temas: energías renovables, desperdicio alimentario, transporte público o privado, uso del agua, etc.<strong></strong></li>
+<li><strong>Objetivos didácticos.</strong><strong></strong>
+<ul style="list-style-type: circle;">
+<li>Desarrollar la comprensión y expresión oral y escrita en francés.</li>
+<li>Investigar y seleccionar información sobre sostenibilidad.</li>
+<li>Utilizar herramientas digitales para crear contenidos visuales.</li>
+<li>Fomentar el trabajo cooperativo y la creatividad.</li>
+</ul>
+</li>
+<li><strong>Relación entre tareas y criterios de evaluación.</strong><strong></strong><strong></strong><strong><iframe width="1000" height="500" src="https://docs.google.com/document/d/1DB6R-m1toT7v0MumOwY_mQRXpd-BPKVGb4PsZI855wQ/edit?usp=sharing"></iframe></strong><strong></strong></li>
+<li style="text-align: justify;"><strong>Metodología.</strong><br />Se empleará una metodología activa y participativa basada en el aprendizaje cooperativo y el aprendizaje basado en proyectos (ABP). El alumnado trabajará por parejas y utilizará herramientas digitales para investigar, crear contenidos y exponer sus resultados.<strong></strong><strong></strong><strong><iframe width="1000" height="500" src="{{context_path}}/content/resources/SdA_Vers un monde plus durable (1).pdf"></iframe></strong><strong></strong><strong></strong></li>
+<li><strong>Recursos y herramientas.</strong><strong></strong>
+<ul style="list-style-type: circle;">
+<li>Ordenadores con conexión a internet.</li>
+<li>Canva.</li>
+<li>Digipad.</li>
+<li>Pizarra digital.</li>
+</ul>
+</li>
+<li><strong>Observaciones.</strong><strong></strong>
+<ul style="list-style-type: circle;">
+<li>Se recomienda dedicar una sesión extra en Canva para resolver problemas relacionados con la aplicación y para que el alumnado termine sus diseños.</li>
+<li>Es conveniente facilitar ejemplos de trípticos al alumnado y explicar su funcionamiento a la hora de diseñarlos e imprimirlos.</li>
+<li>Puede adaptarse el nivel lingüístico según las características del grupo.</li>
+<li>Se aconseja supervisar las fuentes utilizadas y recordar la importancia de citar imágenes y recursos.</li>
+<li>Se recomienda llevar una cabo una evaluación tanto formativa como sumativa para detectar posibles problemas durante el proyecto y que el alumnado pueda llevarlo a cabo con éxito.</li>
+</ul>
+</li>
+</ol>
+</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778602990161-ai4bon82c","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ol>\n<li style=\"list-style-type: none;\">\n<ol>\n<li style=\"text-align: justify;\"><strong>Descripción del proyecto.</strong><br />Este proyecto está dirigido al alumnado de 1.º de Bachillerato de Francés como Segunda Lengua Extranjera. El alumnado, organizado por parejas, investigará temas relacionados con la sostenibilidad y el medio ambiente para elaborar un folleto tríptico en Canva y realizar posteriormente una exposición oral en francés. Ejemplo de temas: energías renovables, desperdicio alimentario, transporte público o privado, uso del agua, etc.<strong></strong></li>\n<li><strong>Objetivos didácticos.</strong><strong></strong>\n<ul style=\"list-style-type: circle;\">\n<li>Desarrollar la comprensión y expresión oral y escrita en francés.</li>\n<li>Investigar y seleccionar información sobre sostenibilidad.</li>\n<li>Utilizar herramientas digitales para crear contenidos visuales.</li>\n<li>Fomentar el trabajo cooperativo y la creatividad.</li>\n</ul>\n</li>\n<li><strong>Relación entre tareas y criterios de evaluación.</strong><strong></strong><strong></strong><strong><iframe width=\"1000\" height=\"500\" src=\"https://docs.google.com/document/d/1DB6R-m1toT7v0MumOwY_mQRXpd-BPKVGb4PsZI855wQ/edit?usp=sharing\"></iframe></strong><strong></strong></li>\n<li style=\"text-align: justify;\"><strong>Metodología.</strong><br />Se empleará una metodología activa y participativa basada en el aprendizaje cooperativo y el aprendizaje basado en proyectos (ABP). El alumnado trabajará por parejas y utilizará herramientas digitales para investigar, crear contenidos y exponer sus resultados.<strong></strong><strong></strong><strong><iframe width=\"1000\" height=\"500\" src=\"{{context_path}}/content/resources/SdA_Vers un monde plus durable (1).pdf\"></iframe></strong><strong></strong><strong></strong></li>\n<li><strong>Recursos y herramientas.</strong><strong></strong>\n<ul style=\"list-style-type: circle;\">\n<li>Ordenadores con conexión a internet.</li>\n<li>Canva.</li>\n<li>Digipad.</li>\n<li>Pizarra digital.</li>\n</ul>\n</li>\n<li><strong>Observaciones.</strong><strong></strong>\n<ul style=\"list-style-type: circle;\">\n<li>Se recomienda dedicar una sesión extra en Canva para resolver problemas relacionados con la aplicación y para que el alumnado termine sus diseños.</li>\n<li>Es conveniente facilitar ejemplos de trípticos al alumnado y explicar su funcionamiento a la hora de diseñarlos e imprimirlos.</li>\n<li>Puede adaptarse el nivel lingüístico según las características del grupo.</li>\n<li>Se aconseja supervisar las fuentes utilizadas y recordar la importancia de citar imágenes y recursos.</li>\n<li>Se recomienda llevar una cabo una evaluación tanto formativa como sumativa para detectar posibles problemas durante el proyecto y que el alumnado pueda llevarlo a cabo con éxito.</li>\n</ul>\n</li>\n</ol>\n</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp2qrkuw-58o0thlze</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2qrkuw-58o0thlze</odePageId>
+      <odeBlockId>block-1778606102247-8zf4s57n0</odeBlockId>
+      <blockName>Créditos y referencias</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2qrkuw-58o0thlze</odePageId>
+          <odeBlockId>block-1778606102247-8zf4s57n0</odeBlockId>
+          <odeIdeviceId>idevice-1778606102245-jddos4e8z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ol>
+<li><strong>Autoría.</strong>
+<ul style="list-style-type: circle;">
+<li>Autora: Inmaculada Camúñez</li>
+<li>Curso de formación: Competencia digital docente nivel B2.</li>
+<li>Fecha de elaboración: mayo de 2026.</li>
+</ul>
+</li>
+<li><strong>Descripción del recurso.</strong>
+<p style="text-align: justify;">Recurso educativo digital dirigido al alumnado de 1.º de Bachillerato de Francés (Segunda Lengua Extranjera), centrado en el desarrollo de una situación de aprendizaje sobre sostenibilidad y medio ambiente mediante la creación de un folleto digital en Canva y una exposición oral en francés.</p>
+</li>
+<li><strong>Licencia de uso.</strong>
+<p style="text-align: justify;">Este recurso educativo se comparte bajo licencia Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0). Las imágenes utilizadas en el proyecto proceden de Unsplash y se emplean conforme a su licencia de uso (Unsplash License).</p>
+</li>
+<li><strong>Webgrafía</strong>.
+<p>Fuentes de las imágenes con Licencia Unsplash:</p>
+<ul style="list-style-type: circle;">
+<li>Foto de Harrison Mitchell en Unsplash (Introducción).</li>
+<li>Foto de David Emrich en Unsplash (Descripción del producto final).</li>
+<li>Foto de Austin Distel en Unsplash (Curación de contenidos).</li>
+<li>Foto de Towfiqu barbhuiya en Unsplash (Evaluación).</li>
+</ul>
+</li>
+<li><strong>Descarga del archivo editable. </strong><br />A continuación puedes descargar el archivo editable de este recurso educativo para poder modificarlo, adaptarlo o reutilizarlo en otros contextos de aula.</li>
+</ol>
+<p><a href="https://drive.google.com/file/d/1nGqSXez5Nd7hYy6-DUlLdZAIdGwZSKEr/view?usp=sharing" title="Descargar proyecto editable (.elp)" target="_blank" rel="noopener">Descargar proyecto editable (.elp)</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778606102245-jddos4e8z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ol>\n<li><strong>Autoría.</strong>\n<ul style=\"list-style-type: circle;\">\n<li>Autora: Inmaculada Camúñez</li>\n<li>Curso de formación: Competencia digital docente nivel B2.</li>\n<li>Fecha de elaboración: mayo de 2026.</li>\n</ul>\n</li>\n<li><strong>Descripción del recurso.</strong>\n<p style=\"text-align: justify;\">Recurso educativo digital dirigido al alumnado de 1.º de Bachillerato de Francés (Segunda Lengua Extranjera), centrado en el desarrollo de una situación de aprendizaje sobre sostenibilidad y medio ambiente mediante la creación de un folleto digital en Canva y una exposición oral en francés.</p>\n</li>\n<li><strong>Licencia de uso.</strong>\n<p style=\"text-align: justify;\">Este recurso educativo se comparte bajo licencia Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0). Las imágenes utilizadas en el proyecto proceden de Unsplash y se emplean conforme a su licencia de uso (Unsplash License).</p>\n</li>\n<li><strong>Webgrafía</strong>.\n<p>Fuentes de las imágenes con Licencia Unsplash:</p>\n<ul style=\"list-style-type: circle;\">\n<li>Foto de Harrison Mitchell en Unsplash (Introducción).</li>\n<li>Foto de David Emrich en Unsplash (Descripción del producto final).</li>\n<li>Foto de Austin Distel en Unsplash (Curación de contenidos).</li>\n<li>Foto de Towfiqu barbhuiya en Unsplash (Evaluación).</li>\n</ul>\n</li>\n<li><strong>Descarga del archivo editable. </strong><br />A continuación puedes descargar el archivo editable de este recurso educativo para poder modificarlo, adaptarlo o reutilizarlo en otros contextos de aula.</li>\n</ol>\n<p><a href=\"https://drive.google.com/file/d/1nGqSXez5Nd7hYy6-DUlLdZAIdGwZSKEr/view?usp=sharing\" title=\"Descargar proyecto editable (.elp)\" target=\"_blank\" rel=\"noopener\">Descargar proyecto editable (.elp)</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
